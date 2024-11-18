@@ -1,0 +1,66 @@
+{
+  "Políticas de Inversión": {
+    "Introducción": "AndisBank se enorgullece de ofrecer una amplia variedad de productos de inversión...",
+    "Filosofía de Inversión": {
+      "Diversificación": "Reducimos el riesgo al invertir en diferentes tipos de activos...",
+      "Adaptabilidad": "Evaluamos de forma continua el entorno económico y financiero...",
+      "Sostenibilidad": "Promovemos inversiones en empresas y proyectos que tengan un impacto positivo..."
+    },
+    "Tipos de Inversión Ofrecidos": {
+      "Fondos Mutuos": "Los fondos mutuos de AndisBank están diseñados para proporcionar una opción de inversión diversificada...",
+      "Bonos y Deuda Corporativa": "Invertimos en bonos tanto gubernamentales como corporativos...",
+      "Acciones": "Ofrecemos acceso a los principales mercados bursátiles mundiales...",
+      "Productos de Inversión Personalizados": "Para los clientes con un patrimonio significativo..."
+    },
+    "Evaluación del Riesgo": {
+      "Riesgo de Mercado": "Analizamos la volatilidad histórica y proyectada de los activos.",
+      "Riesgo de Crédito": "Evaluamos la capacidad de pago de los emisores...",
+      "Riesgo de Liquidez": "Aseguramos que cada inversión pueda ser liquidada..."
+    },
+    "Perfil del Inversor": {
+      "Conservador": "Prioriza la seguridad del capital...",
+      "Moderado": "Busca un equilibrio entre el riesgo y el rendimiento...",
+      "Agresivo": "Está dispuesto a asumir un mayor riesgo..."
+    },
+    "Transparencia y Comunicación": "En AndisBank, creemos que la transparencia es fundamental...",
+    "Responsabilidad Social y Gobernanza (ESG)": "Evaluamos las inversiones bajo los criterios ambientales..."
+  },
+  "Políticas de Tarjetas de Crédito": {
+    "Introducción": "Las tarjetas de crédito de AndisBank están diseñadas para ofrecer comodidad...",
+    "Tipos de Tarjetas de Crédito": {
+      "Tarjeta Clásica": "La tarjeta de crédito clásica de AndisBank está orientada a clientes...",
+      "Tarjeta Oro": "La tarjeta Oro está pensada para clientes con mayores ingresos...",
+      "Tarjeta Platino": "La tarjeta Platino de AndisBank ofrece beneficios premium...",
+      "Tarjeta Empresarial": "La tarjeta Empresarial está diseñada para satisfacer las necesidades de empresas..."
+    },
+    "Políticas de Uso Responsable": "AndisBank promueve el uso responsable de las tarjetas de crédito...",
+    "Cargos e Intereses": {
+      "Tasas de Interés": "Las tasas de interés aplicables a las tarjetas de crédito varían...",
+      "Cargos Adicionales": "Cuota Anual, intereses por financiamiento y cargos por mora..."
+    },
+    "Recompensas y Beneficios": "Las tarjetas de crédito de AndisBank están diseñadas para recompensar el uso...",
+    "Seguridad y Prevención de Fraudes": "AndisBank se compromete a proteger la seguridad...",
+    "Procedimiento de Reclamaciones": "En caso de detectar transacciones no reconocidas..."
+  },
+  "Políticas de Transferencias": {
+    "Introducción": "En AndisBank, ofrecemos servicios de transferencias...",
+    "Tipos de Transferencias": {
+      "Transferencias Internas": "Permiten la movilización de fondos entre cuentas del mismo titular...",
+      "Transferencias hacia Otros Bancos": "AndisBank ofrece la posibilidad de realizar transferencias a cuentas de otros bancos..."
+    },
+    "Procedimiento de Transferencia": {
+      "Transferencias Internas": "Acceso a la plataforma, datos requeridos y confirmación...",
+      "Transferencias hacia Otros Bancos": "Datos del beneficiario, verificación de seguridad y tiempo de procesamiento..."
+    },
+    "Límites y Restricciones": {
+      "Límites de Transferencia": "No se aplican límites a las transferencias internas...",
+      "Restricciones": "Para prevenir el lavado de dinero y actividades fraudulentas..."
+    },
+    "Cargos y Comisiones": {
+      "Transferencias Internas": "Sin cargos.",
+      "Transferencias hacia Otros Bancos": "Comisiones variables según el destino..."
+    },
+    "Seguridad en las Transferencias": "AndisBank aplica diversas medidas para prevenir fraudes...",
+    "Procedimiento de Reclamaciones": "En caso de que un cliente detecte una transacción no autorizada..."
+  }
+}
